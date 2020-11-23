@@ -21,8 +21,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![](Tippy.gif)
 ## Notes
 
 The stepper has a glitch, it does not get the updated value instantly, but it the amount 
